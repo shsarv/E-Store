@@ -16,7 +16,7 @@ install these two apps.
 ##### 1. Netbeans
 ##### 2. Wamp
 
-## Steps:
+## pages descriptoions:
   * **The index page** will be the landing page of the website i.e. the page which a user will first see when he/she opens the website. The page will be divided into three parts
       *the navbar ( fixed navbar at the top)
           *<div class=”navbar navbar-default navbar-fixed-top” class will be used. It will be a collapsing navbar.
