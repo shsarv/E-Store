@@ -113,5 +113,5 @@ home page. In this case, clicking on the logo from any page redirects the user t
 
 ## Acknowledgments
 
-* for any enquiry email-(**shsarv@gmail.com**>
+* for any enquiry email-(**shsarv@gmail.com**)
 
